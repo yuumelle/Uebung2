@@ -4,9 +4,7 @@ public class P3_main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int i = 1;
-		int j = 2;
-		int k = 3;
+		int i = 1, j = 2, k = 3;
 		if (i < j)
 			System.out.println("A");
 		if (i < k)
